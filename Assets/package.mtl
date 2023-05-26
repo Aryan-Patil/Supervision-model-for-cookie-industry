@@ -1,0 +1,13 @@
+# Blender MTL File: 'uploads-files-2369536-Packaging+bag.blend'
+# Material Count: 1
+
+newmtl Material.008
+Ns 722.499990
+Ka 1.000000 1.000000 1.000000
+Kd 0.692071 0.692071 0.692071
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:/Users/TheTrickster/Desktop/Normal.png
